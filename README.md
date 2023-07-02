@@ -190,7 +190,7 @@ This page contains information about the ml pipeline.
 6. If the slug size is too large then add large files not required for the app to the .slugignore file.
 
 ## Main Data Analysis
-* ![Distribution of Sale Prices](./outputs/Distribution of Sale Prices.png)
+* ![Distribution of Sale Prices](outputs/Distribution of Sale Prices.png)
 * ![Correlation Matrix](Correlation Matrix.png)
 
 
