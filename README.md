@@ -192,6 +192,7 @@ This page contains information about the ml pipeline.
 ## Main Data Analysis
 * ![Distribution of Sale Prices](outputs/Distribution of Sale Prices.png)
 * ![Correlation Matrix](Correlation Matrix.png)
+* ![MarineGEO circle logo](/assets/img/Distribution_of_Sale_Prices.png "MarineGEO logo")
 
 
 ## Machine Learning Libraries
